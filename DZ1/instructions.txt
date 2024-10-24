@@ -1,0 +1,9 @@
+ls 
+cd home\user\documents
+tail file2.txt
+tail file1.txt
+mv file1.txt file3.txt
+mv file2.txt file4.txt
+ls
+cd
+cal
