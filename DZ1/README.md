@@ -45,19 +45,13 @@ vfs.zip # Архив с виртуальной фаловой системой
 _____________________________________________________________________________________________________________________________
 ## 3. Тест работоспособности
 
-## Команды необходимые к выполнению
+##Запуск тестирования 
 
-![image](https://github.com/user-attachments/assets/b96e1956-8207-46bb-acd2-72d0099dd5be)
-
-## Содержимое текстовых файлов
-
-file1: ![image](https://github.com/user-attachments/assets/42d3357d-0a57-4792-98bd-d3f51d582a7f)
-
-file2: ![image](https://github.com/user-attachments/assets/3d82988c-3bf2-486d-9c87-665fd335c190)
-
-##Результаты тестирования
-
-![image](https://github.com/user-attachments/assets/99d2e605-6922-4b43-800e-e758636d4622)
+```
+pytest test_shell.py
+```
+Результат
+![image](https://github.com/user-attachments/assets/10d1badc-6228-4f30-b322-bda0904d008b)
 
 
 
