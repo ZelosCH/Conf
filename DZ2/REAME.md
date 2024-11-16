@@ -28,7 +28,7 @@ config.json - Конфигурационный файл
 
 git_dep.py - Код программы
 
-output_file_path - Файл для записи кода Mermaid
+output_file_path.png - Cоставленный граф
 
 test_git - Тесты программы
 
@@ -38,7 +38,7 @@ test_git - Тесты программы
 Предварительно нужно склонировать репозиторий используемый для анализа
 
 ```
-git clone https://github.com/python/cpython.git
+git clone https://github.com/ZelosCH/Conf
 ```
 
 Программа запускается из командной строки 
@@ -56,4 +56,5 @@ python git_dep.py config.json
 pytest test_git.py
 ```
 Результаты тестирования:
-![image](https://github.com/user-attachments/assets/ef58aedd-6a8d-4e60-8b4b-4fb0ae531103)
+![image](https://github.com/user-attachments/assets/57f3048b-56ce-481a-9091-d101458d7b1d)
+
