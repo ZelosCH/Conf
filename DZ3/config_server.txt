@@ -1,0 +1,4 @@
+server_name: "localhost";
+port: 8080;
+allowed_ips: array("192.168.1.1", "192.168.1.2");
+retries: 5;
