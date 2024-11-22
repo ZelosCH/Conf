@@ -56,5 +56,6 @@ python git_dep.py config.json
 pytest test_git.py
 ```
 Результаты тестирования:
-![image](https://github.com/user-attachments/assets/57f3048b-56ce-481a-9091-d101458d7b1d)
+
+![image](https://github.com/user-attachments/assets/f3a0c338-b3d0-4d23-8f4e-df4d7c657c8c)
 
