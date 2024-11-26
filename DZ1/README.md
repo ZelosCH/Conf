@@ -48,10 +48,11 @@ ________________________________________________________________________________
 ##Запуск тестирования 
 
 ```
-pytest test_shell.py
+python -m unittest test_shell.py
 ```
 Результат
-![image](https://github.com/user-attachments/assets/10d1badc-6228-4f30-b322-bda0904d008b)
+![image](https://github.com/user-attachments/assets/689b40fa-f9aa-454f-8de6-902c4003fdc7)
+
 
 
 
