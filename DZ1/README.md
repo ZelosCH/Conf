@@ -51,6 +51,7 @@ ________________________________________________________________________________
 python -m unittest test_shell.py
 ```
 Результат
+
 ![image](https://github.com/user-attachments/assets/689b40fa-f9aa-454f-8de6-902c4003fdc7)
 
 
