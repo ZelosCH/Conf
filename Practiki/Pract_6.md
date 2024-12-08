@@ -38,8 +38,8 @@ with open("Makefile", "w") as makefile:
 
 print("Makefile успешно создан.")
 ```
+![image](https://github.com/user-attachments/assets/93b0bb04-3248-498d-bc63-71c5e91e001b)
 
-![image](https://github.com/user-attachments/assets/e2032348-fcf6-4db3-8092-a93e69403d7e)
 
 ## Задача 2
 
@@ -81,4 +81,5 @@ with open("Makefile", "w") as makefile:
 print("Makefile успешно создан.")
 ```
 
-![image](https://github.com/user-attachments/assets/e2edb13c-860e-42c6-b1e2-2120771a6b21)
+![image](https://github.com/user-attachments/assets/b389bf36-413f-427a-b57a-0780a8e0faaf)
+
